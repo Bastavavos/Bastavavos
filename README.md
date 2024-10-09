@@ -3,8 +3,8 @@
 ### :eyes: About me : 
 I'm currently junior developer, co-op student in Digital Campus In The Alps - Annecy
 
-I have been working for one year in test automation at Orisha Ginkoia - Passy.
-My future mission will be focused on front-end development in 2025.
+I have been working for one year in test automation at Orisha Ginkoia - Passy. </br>
+My future mission in this company will be focused on front-end development in 2025.
 
 
 ### :zap: My main programming languages : 
@@ -18,9 +18,10 @@ My future mission will be focused on front-end development in 2025.
 
 ### :computer: My other Tools : 
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) </br>
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ### :chart_with_upwards_trend: Stats: 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastavavos&show_icons=true&rank_icon=github&theme=transparent)
